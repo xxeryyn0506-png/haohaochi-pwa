@@ -1,0 +1,10 @@
+{
+  "name": "haohaochi-pwa",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test tests/test_utils.mjs tests/test_static_pwa.mjs"
+  }
+}

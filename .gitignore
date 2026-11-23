@@ -1,0 +1,13 @@
+.DS_Store
+node_modules/
+__pycache__/
+tests/_tmp_backup.json
+*.log
+.Rhistory
+.pnpm-store/
+.browsers/
+.wrangler/
+dist/
+/supabase/
+/部署说明.md
+/验收结果.md
